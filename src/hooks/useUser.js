@@ -16,7 +16,7 @@ const useUser = (id) => {
         console.error(error);
         setIsLoading(false);
       });
-  }, []);
+  }, [id]);
 
   return [users, isLoading ];
 };
