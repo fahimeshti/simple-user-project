@@ -4,7 +4,7 @@
 - Open the terminal and navigate to the root folder of the project.
 - Run `npm install` to install the necessary dependencies.
 - Once the dependencies are installed, run `npm start` to start the development server.
-- The application will be accessible at http://localhost:3000 in your web browser or watch it [Live here]()
+- The application will be accessible at http://localhost:3000 in your web browser or watch it [Live here](https://user-project-fahimesti.netlify.app/)
 
 ## The application has two pages:
 
